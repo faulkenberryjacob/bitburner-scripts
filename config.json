@@ -1,0 +1,31 @@
+{
+  "canBackdoor": false,
+
+  "defaultServerPurchaseName": "hackFactory",
+  "defaultServerPurchaseRam": 262144,
+
+  "defaultMoneyThreshold": 0.70,
+  "defaultSecurityThreshold": 1.20,
+
+  "factoryScriptName": "factory.ts",
+  
+  "hackLoopScriptName": "hackLoop.ts",
+  "growLoopScriptName": "growLoop.ts",
+  "weakenLoopScriptName": "weakenLoop.ts",
+  "shareLoopScriptName": "shareLoop.ts",
+
+  "hackScriptName": "hack.ts",
+  "growScriptName": "grow.ts",
+  "weakenScriptName": "weaken.ts",
+  "shareScriptName": "share.ts",
+
+  "starterHackScriptName": "starter-hack.ts",
+
+  "serverDBFileName": "server-database.json",
+
+  "homeRamBuffer": 24
+
+
+
+
+}
